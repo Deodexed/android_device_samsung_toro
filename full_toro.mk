@@ -24,7 +24,7 @@
 # Camera
 PRODUCT_PACKAGES := \
     Camera \
-    Gallery
+    Gallery \
     Superuser \
     Superuser.apk \
     su
